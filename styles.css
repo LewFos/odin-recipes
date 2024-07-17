@@ -1,0 +1,23 @@
+* {
+    color: green;
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+div {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+miso {
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
