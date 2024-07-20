@@ -1,6 +1,24 @@
-* {
+body {
     color: green;
     background-color: black;
+}
+
+.home-container {
+    background: rgb(60, 207, 109);
+    width: 200px;
+    margin: 16px auto;
+    border: 1px;
+    padding: 1px;
+}
+
+.ind-container {
+
+    background: white;
+    width: 400px;
+    border: 1px;
+    padding: 5px;
+    margin: 1px auto;
+
 }
 
 h1 {
@@ -11,7 +29,7 @@ h2 {
     color: blue;
 }
 
-div {
+.content-text {
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
